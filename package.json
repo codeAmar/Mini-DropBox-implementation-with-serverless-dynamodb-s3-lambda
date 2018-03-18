@@ -1,0 +1,22 @@
+{
+  "name": "serverless-s3-with-dynamodb",
+  "version": "1.0.0",
+  "description": "Mini dropbox like implementation",
+  "main": "serverless.yml",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/codeAmar/Mini-DropBox-implementation-with-serverless-dynamodb-s3-lambda.git"
+  },
+  "keywords": [
+    "serverless"
+  ],
+  "author": "codeamar",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/codeAmar/Mini-DropBox-implementation-with-serverless-dynamodb-s3-lambda/issues"
+  },
+  "homepage": "https://github.com/codeAmar/Mini-DropBox-implementation-with-serverless-dynamodb-s3-lambda#readme"
+}
