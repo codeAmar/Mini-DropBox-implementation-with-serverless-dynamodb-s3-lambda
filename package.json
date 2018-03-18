@@ -18,5 +18,10 @@
   "bugs": {
     "url": "https://github.com/codeAmar/Mini-DropBox-implementation-with-serverless-dynamodb-s3-lambda/issues"
   },
-  "homepage": "https://github.com/codeAmar/Mini-DropBox-implementation-with-serverless-dynamodb-s3-lambda#readme"
+  "homepage": "https://github.com/codeAmar/Mini-DropBox-implementation-with-serverless-dynamodb-s3-lambda#readme",
+  "dependencies": {
+    "aws-sdk": "^2.211.0",
+    "node-fetch": "^2.1.1",
+    "uuid": "^3.2.1"
+  }
 }
